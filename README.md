@@ -1,4 +1,4 @@
-# ME315 Term Life Insurance Q3
+# Term Life Insurance
 
 This repository contains the empirical work for ME315 Problem Set Day 4, Question 3. The project studies household predictors of term life insurance coverage using the Term Life Insurance dataset from the 2004 Survey of Consumer Finances.
 
