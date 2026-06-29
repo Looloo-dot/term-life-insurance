@@ -8,7 +8,6 @@ This repository contains the empirical work for ME315 Problem Set Day 4, Questio
 - `Term Life Insurance.csv`: dataset used by the notebook.
 - `term_life_q3_report.tex`: LaTeX source for the written report and appendix.
 - `figures/figure1_distribution_model_comparison.png`: figure used in the report.
-- `ProblemSetDay04.pdf`: original problem-set document.
 - `Appendix_Reproducibility_Draft.md`: earlier appendix planning notes.
 
 ## Reproducibility
